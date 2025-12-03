@@ -501,7 +501,7 @@
         {
           "ruleId": "TruffleHog Finding",
           "message": {
-            "text": "Potential secret detected by TruffleHog Finding"
+            "text": "Potential secret detected by TruffleHog Findings"
           },
           "locations": [
             {
